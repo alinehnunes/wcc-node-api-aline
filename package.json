@@ -1,0 +1,22 @@
+{
+  "name": "wcc-node-api-aline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinehnunes/wcc-node-api-aline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinehnunes/wcc-node-api-aline/issues"
+  },
+  "homepage": "https://github.com/alinehnunes/wcc-node-api-aline#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
